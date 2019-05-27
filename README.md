@@ -26,5 +26,6 @@ chapter5-11，主要写了《入门经典》中的习题解答
 
 ## 思路分享 ##
 我所有的思路，详细的思考过程
-全部放在www.fogsail.net中
-这是我的个人网站
+全部放在
+[个人网站](http://www.fogsail.net)
+http://www.fogsail.net
