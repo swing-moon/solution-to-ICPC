@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/The_Letter.dir/main.cpp.o  -o The_Letter 

@@ -1,0 +1,3 @@
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/lattice-animals2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/lattice-animals2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/lattice-animals2/cmake-build-debug/CMakeFiles/lattice_animals2.dir

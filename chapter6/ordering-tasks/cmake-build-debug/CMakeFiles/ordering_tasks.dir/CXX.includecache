@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter6/ordering-tasks/main.cpp
+cstdio
+-
+cstring
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter5/discretization/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+queue
+-
+cmath
+-
+

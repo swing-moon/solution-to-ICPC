@@ -1,0 +1,3 @@
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/prim-POJ2485/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/prim-POJ2485/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/prim-POJ2485/cmake-build-debug/CMakeFiles/prim_POJ2485.dir

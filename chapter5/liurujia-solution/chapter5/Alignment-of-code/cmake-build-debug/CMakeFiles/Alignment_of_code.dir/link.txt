@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Alignment_of_code.dir/main.cpp.o  -o Alignment_of_code 

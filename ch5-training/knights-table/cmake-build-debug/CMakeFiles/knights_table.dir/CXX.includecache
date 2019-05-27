@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/knights-table/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdio
+-
+algorithm
+-
+stack
+-
+queue
+-
+vector
+-
+

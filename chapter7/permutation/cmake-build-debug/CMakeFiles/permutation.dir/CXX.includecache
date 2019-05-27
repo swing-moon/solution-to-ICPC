@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/permutation/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+

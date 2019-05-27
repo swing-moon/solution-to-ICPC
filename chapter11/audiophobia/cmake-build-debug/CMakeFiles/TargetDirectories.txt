@@ -1,0 +1,3 @@
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter11/audiophobia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter11/audiophobia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter11/audiophobia/cmake-build-debug/CMakeFiles/audiophobia.dir

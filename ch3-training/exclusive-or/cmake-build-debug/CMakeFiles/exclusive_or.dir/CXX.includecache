@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch3-training/exclusive-or/main.cpp
+iostream
+-
+cstring
+-
+vector
+-
+cstdio
+-
+cstdlib
+-
+sstream
+-
+

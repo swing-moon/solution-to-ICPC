@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/lattice-animals2/main.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+set
+-
+map
+-
+algorithm
+-
+

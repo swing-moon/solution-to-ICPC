@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/walk-forest/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+cstring
+-
+vector
+-
+queue
+-
+stack
+-
+algorithm
+-
+

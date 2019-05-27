@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/HDU3844/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+vector
+-
+queue
+-
+map
+-
+stack
+-
+algorithm
+-
+

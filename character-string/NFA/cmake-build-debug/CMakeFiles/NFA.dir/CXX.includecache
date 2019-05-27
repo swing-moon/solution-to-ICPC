@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/NFA/cmake-build-debug/Digraph.h
+forward_list
+-
+vector
+-
+iostream
+-
+cstdio
+-
+cstring
+-
+stack
+-
+sstream
+-
+cassert
+-
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/NFA/cmake-build-debug/DirectedDFS.h
+Digraph.h
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/NFA/cmake-build-debug/Digraph.h
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/NFA/cmake-build-debug/NFA.h
+cassert
+-
+DirectedDFS.h
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/NFA/cmake-build-debug/DirectedDFS.h
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/NFA/main.cpp
+iostream
+-
+cmake-build-debug/NFA.h
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/NFA/cmake-build-debug/NFA.h
+

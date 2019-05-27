@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/printer_queue.dir/main.cpp.o  -o printer_queue 

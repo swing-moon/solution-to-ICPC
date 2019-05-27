@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/BigInteger/main.cpp
+iostream
+-
+cstdio
+-
+algorithm
+-
+cstring
+-
+vector
+-
+

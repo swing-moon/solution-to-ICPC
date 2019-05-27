@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/prim-POJ1789/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+queue
+-
+vector
+-
+

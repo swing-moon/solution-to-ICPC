@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/animal-run/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+algorithm
+-
+stack
+-
+queue
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/database.dir/main.cpp.o  -o database 

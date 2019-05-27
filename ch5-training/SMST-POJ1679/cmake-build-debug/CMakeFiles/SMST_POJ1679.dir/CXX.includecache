@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/SMST-POJ1679/main.cpp
+iostream
+-
+cstring
+-
+cstdio
+-
+cstdlib
+-
+vector
+-
+queue
+-
+algorithm
+-
+stack
+-
+map
+-
+

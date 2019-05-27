@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter4/colored-cubes-solution/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+string
+-
+vector
+-
+algorithm
+-
+

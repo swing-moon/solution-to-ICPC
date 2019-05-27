@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/extraorinarily_tired.dir/main.cpp.o  -o extraorinarily_tired 

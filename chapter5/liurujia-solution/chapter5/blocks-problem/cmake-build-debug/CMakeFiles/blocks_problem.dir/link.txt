@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/blocks_problem.dir/main.cpp.o  -o blocks_problem 

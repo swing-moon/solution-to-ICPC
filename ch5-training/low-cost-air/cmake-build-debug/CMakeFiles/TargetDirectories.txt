@@ -1,0 +1,3 @@
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/low-cost-air/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/low-cost-air/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/low-cost-air/cmake-build-debug/CMakeFiles/low_cost_air.dir

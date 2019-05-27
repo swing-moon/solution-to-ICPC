@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/kmp/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+vector
+-
+queue
+-
+stack
+-
+algorithm
+-
+

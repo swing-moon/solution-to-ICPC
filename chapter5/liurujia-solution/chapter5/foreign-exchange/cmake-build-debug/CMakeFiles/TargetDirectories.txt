@@ -1,0 +1,3 @@
+/home/fogsail/liurujia-solution/chapter5/foreign-exchange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fogsail/liurujia-solution/chapter5/foreign-exchange/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fogsail/liurujia-solution/chapter5/foreign-exchange/cmake-build-debug/CMakeFiles/foreign_exchange.dir

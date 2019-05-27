@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/urban-elevations/main.cpp
+iostream
+-
+cstdio
+-
+algorithm
+-
+

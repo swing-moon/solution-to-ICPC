@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter11/Dining/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+queue
+-
+cmath
+-
+cctype
+-
+

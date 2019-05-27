@@ -1,0 +1,3 @@
+/home/fogsail/liurujia-solution/chapter4/IP-Networks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fogsail/liurujia-solution/chapter4/IP-Networks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fogsail/liurujia-solution/chapter4/IP-Networks/cmake-build-debug/CMakeFiles/IP_Networks.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/Unix-ls/main.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+string
+-
+

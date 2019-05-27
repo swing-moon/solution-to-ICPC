@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/team_queue.dir/main.cpp.o  -o team_queue 

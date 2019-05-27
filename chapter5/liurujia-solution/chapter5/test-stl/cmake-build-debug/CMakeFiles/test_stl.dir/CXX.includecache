@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/test-stl/main.cpp
+cstdio
+-
+iostream
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+cassert
+-
+ctime
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter6/parenthese-balance/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+vector
+-
+stack
+-
+queue
+-
+algorithm
+-
+

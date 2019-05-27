@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/s_tree.dir/main.cpp.o  -o s_tree 

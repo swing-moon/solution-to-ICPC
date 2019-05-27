@@ -1,0 +1,6 @@
+abac
+3
+a
+ab
+ca
+

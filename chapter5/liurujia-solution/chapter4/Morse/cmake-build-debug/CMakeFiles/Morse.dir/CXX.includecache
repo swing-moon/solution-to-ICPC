@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter4/Morse/main.cpp
+iostream
+-
+cstdio
+-
+map
+-
+unordered_map
+-
+vector
+-
+cstring
+-
+string.h
+-
+algorithm
+-
+

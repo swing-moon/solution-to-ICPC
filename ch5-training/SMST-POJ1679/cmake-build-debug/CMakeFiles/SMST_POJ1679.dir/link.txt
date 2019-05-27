@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SMST_POJ1679.dir/main.cpp.o  -o SMST_POJ1679 

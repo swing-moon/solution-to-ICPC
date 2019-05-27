@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/POJ3694.dir/main.cpp.o  -o POJ3694 

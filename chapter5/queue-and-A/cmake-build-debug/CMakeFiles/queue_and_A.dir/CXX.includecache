@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter5/queue-and-A/main.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+algorithm
+-
+cstring
+-
+vector
+-
+set
+-
+map
+-
+queue
+-
+functional
+-
+cmath
+-
+

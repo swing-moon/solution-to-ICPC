@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/throwing_cards.dir/main.cpp.o  -o throwing_cards 

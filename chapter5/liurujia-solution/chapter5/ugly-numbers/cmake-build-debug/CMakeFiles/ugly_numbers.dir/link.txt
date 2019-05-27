@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ugly_numbers.dir/main.cpp.o  -o ugly_numbers 

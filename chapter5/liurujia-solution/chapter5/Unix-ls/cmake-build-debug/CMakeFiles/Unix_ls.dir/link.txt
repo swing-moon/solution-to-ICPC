@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Unix_ls.dir/main.cpp.o  -o Unix_ls 

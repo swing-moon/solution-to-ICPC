@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/steam-roller/main.cpp
+iostream
+-
+cstring
+-
+cstdio
+-
+cstdlib
+-
+vector
+-
+stack
+-
+queue
+-
+algorithm
+-
+

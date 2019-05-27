@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/searching-the-web/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+set
+-
+vector
+-
+map
+-
+algorithm
+-
+sstream
+-
+

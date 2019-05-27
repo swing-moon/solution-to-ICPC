@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/low-cost-air/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+vector
+-
+cstdlib
+-
+queue
+-
+stack
+-
+algorithm
+-
+cmath
+-
+map
+-
+

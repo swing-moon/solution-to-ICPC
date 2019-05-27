@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/Rabin-karp/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+cstring
+-
+vector
+-
+queue
+-
+stack
+-
+algorithm
+-
+cmath
+-
+

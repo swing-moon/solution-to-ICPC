@@ -1,0 +1,3 @@
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/editing-book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/editing-book/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter7/editing-book/cmake-build-debug/CMakeFiles/editing_book.dir

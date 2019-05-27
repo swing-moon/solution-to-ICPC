@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/borrowers/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+set
+-
+algorithm
+-
+vector
+-
+map
+-
+

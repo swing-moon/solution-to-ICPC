@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter5/PGA-Money/main.cpp
+algorithm
+-
+iostream
+-
+cstdio
+-
+cstring
+-
+cmath
+-
+sstream
+-
+iomanip
+-
+

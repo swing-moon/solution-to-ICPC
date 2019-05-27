@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter11/subexpress-elimination/main.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+map
+-
+vector
+-
+queue
+-
+

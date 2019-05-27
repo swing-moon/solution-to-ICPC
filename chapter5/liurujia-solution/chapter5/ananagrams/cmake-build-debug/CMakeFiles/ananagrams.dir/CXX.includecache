@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/ananagrams/main.cpp
+iostream
+-
+cstdio
+-
+map
+-
+set
+-
+vector
+-
+cstring
+-
+algorithm
+-
+

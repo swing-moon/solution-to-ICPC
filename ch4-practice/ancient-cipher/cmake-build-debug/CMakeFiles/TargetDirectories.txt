@@ -1,0 +1,3 @@
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch4-practice/ancient-cipher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch4-practice/ancient-cipher/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch4-practice/ancient-cipher/cmake-build-debug/CMakeFiles/ancient_cipher.dir

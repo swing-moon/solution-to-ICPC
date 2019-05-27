@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/stack-computer/main.cpp
+iostream
+-
+set
+-
+algorithm
+-
+map
+-
+vector
+-
+stack
+-
+cstring
+-
+cstdlib
+-
+iterator
+-
+

@@ -1,0 +1,3 @@
+/home/fogsail/liurujia-solution/chapter5/stack-computer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fogsail/liurujia-solution/chapter5/stack-computer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fogsail/liurujia-solution/chapter5/stack-computer/cmake-build-debug/CMakeFiles/stack_computer.dir

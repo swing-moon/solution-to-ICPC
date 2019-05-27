@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/Alignment-of-code/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+cstring
+-
+sstream
+-
+algorithm
+-
+iomanip
+-
+

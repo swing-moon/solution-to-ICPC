@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/ch5-training/kruskal-POJ1861/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+algorithm
+-
+queue
+-
+stack
+-
+

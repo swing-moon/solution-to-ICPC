@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/andy_dictionary.dir/main.cpp.o  -o andy_dictionary 

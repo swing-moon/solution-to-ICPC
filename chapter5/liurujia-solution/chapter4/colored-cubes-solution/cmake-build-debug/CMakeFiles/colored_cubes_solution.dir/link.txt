@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/colored_cubes_solution.dir/main.cpp.o  -o colored_cubes_solution 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Morse.dir/main.cpp.o  -o Morse 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter5/san-jose/main.cpp
+iostream
+-
+cstdio
+-
+algorithm
+-
+cstring
+-
+vector
+-
+set
+-
+map
+-
+cmath
+-
+

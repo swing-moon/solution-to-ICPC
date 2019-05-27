@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PGA_Money.dir/main.cpp.o  -o PGA_Money 

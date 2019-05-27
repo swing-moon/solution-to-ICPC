@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/foreign-exchange/main.cpp
+iostream
+-
+cstdio
+-
+unordered_map
+-
+map
+-
+algorithm
+-
+vector
+-
+

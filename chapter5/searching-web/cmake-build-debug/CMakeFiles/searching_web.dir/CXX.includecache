@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter5/searching-web/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+string.h
+-
+algorithm
+-
+cstdlib
+-
+queue
+-
+stack
+-
+map
+-
+set
+-
+sstream
+-
+

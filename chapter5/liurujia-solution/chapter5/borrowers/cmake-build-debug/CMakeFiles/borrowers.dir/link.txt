@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/borrowers.dir/main.cpp.o  -o borrowers 

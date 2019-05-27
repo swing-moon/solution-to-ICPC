@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/chapter5/Exchange/main.cpp
+stdio.h
+-
+string.h
+-
+vector
+-
+iostream
+-
+sstream
+-
+math.h
+-
+map
+-
+set
+-
+queue
+-
+algorithm
+-
+

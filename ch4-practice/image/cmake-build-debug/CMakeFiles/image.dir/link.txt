@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/image.dir/main.cpp.o  -o image 

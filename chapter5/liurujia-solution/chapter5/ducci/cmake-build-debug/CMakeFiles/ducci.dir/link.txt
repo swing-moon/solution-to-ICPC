@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ducci.dir/main.cpp.o  -o ducci 

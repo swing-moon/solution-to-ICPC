@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bug_hunt.dir/main.cpp.o  -o bug_hunt 

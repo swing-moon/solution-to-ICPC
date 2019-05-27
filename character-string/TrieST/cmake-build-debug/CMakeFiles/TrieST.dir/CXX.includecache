@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/TrieST/./cmake-build-debug/TrieST.h
+iostream
+-
+cstdio
+-
+cstring
+-
+vector
+-
+queue
+-
+stdexcept
+-
+cassert
+-
+algorithm
+-
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/TrieST/main.cpp
+./cmake-build-debug/TrieST.h
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/TrieST/./cmake-build-debug/TrieST.h
+fstream
+-
+

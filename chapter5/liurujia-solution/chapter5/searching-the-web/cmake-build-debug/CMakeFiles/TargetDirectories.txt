@@ -1,0 +1,3 @@
+/home/fogsail/liurujia-solution/chapter5/searching-the-web/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fogsail/liurujia-solution/chapter5/searching-the-web/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fogsail/liurujia-solution/chapter5/searching-the-web/cmake-build-debug/CMakeFiles/searching_the_web.dir

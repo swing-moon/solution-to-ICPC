@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fogsail/liurujia-solution/chapter5/printer-queue/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+cstdlib
+-
+queue
+-
+

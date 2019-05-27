@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Rabin_karp.dir/main.cpp.o  -o Rabin_karp 

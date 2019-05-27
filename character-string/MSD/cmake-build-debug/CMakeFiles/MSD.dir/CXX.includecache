@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/research/solution-to-liurujia/character-string/MSD/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+algorithm
+-
+queue
+-
+stack
+-
+
