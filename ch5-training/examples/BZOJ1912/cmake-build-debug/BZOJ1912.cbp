@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BZOJ1912"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BZOJ1912">
+				<Option output="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/BZOJ1912" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 BZOJ1912"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BZOJ1912/fast">
+				<Option output="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/BZOJ1912" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 BZOJ1912/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/main.cpp">
+			<Option target="BZOJ1912"/>
+		</Unit>
+		<Unit filename="/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/BZOJ1912/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
