@@ -13,7 +13,7 @@
 #include <cmath>
 #include <bitset>
 #include <assert.h>
-#include <unordered_set>
+
 
 using namespace std;
 typedef long long llong;
@@ -36,42 +36,51 @@ typedef set<int>::iterator ssii;
 
 const int maxn = 2000 + 10;
 const int inf = 0x3f3f3f3f;
-int A[maxn], B[maxn], C[maxn];
-int F[maxn][maxn];
+
+int A[maxn], F[maxn][maxn];
+int A2[maxn];
 int n;
 
 void init() {
     Set(A, 0);
-    Set(B, 0);
-    Set(C, 0);
+    Set(A2, 0);
+    ///Set(B, 0);
     Set(F, inf);
+}
+
+int query(int x, int m) {
+    return lower_bound(A2 + 1, A2 + 1 + m, x) - A2;
 }
 
 int main() {
     freopen("input.txt", "r", stdin);
     init();
     scanf("%d", &n);
+
     _rep(i, 1, n) {
         scanf("%d", &A[i]);
-        B[i] = A[i];
+        A2[i] = A[i];
     }
 
-    sort(B + 1, B + 1 + n);
-    int k = unique(B + 1, B + 1 + n) - B - 1;
-    // discrete B[]
+    sort(A2 + 1, A2 + 1 + n);
+    int m = unique(A2 + 1, A2 + 1 + n) - A2 - 1;
+    // id = query(A[i], m)
 
     F[0][0] = 0;
+
     _rep(i, 1, n) {
         int val = F[i - 1][0];
-        _rep(j, 1, k) {
+
+        _rep(j, 1, m) {
+            int baseline = A2[j];
             val = min(val, F[i - 1][j]);
-            F[i][j] = val + abs(A[i] - B[j]);
+
+            F[i][j] = val + abs(A[i] - baseline);
         }
     }
 
     int ans = inf;
-    _rep(i, 1, n) {
-        ans = min(ans, F[n][i]);
-    }
-    printf("%d\n", ans);
+    _rep(j, 1, m) ans = min(ans, F[n][j]);
+    cout << ans << endl;
+
 }
