@@ -101,7 +101,7 @@ int main() {
             printf("%d%c", fwick.sum(pos[x] - 1), i == m - 1 ? '\n' : ' ');
 
             fwick.add(pos[x], -1);
-            pos[x] = --st;
+            pos[x] = st--;
             fwick.add(pos[x], 1);
         }
     }

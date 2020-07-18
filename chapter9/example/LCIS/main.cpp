@@ -35,35 +35,28 @@ typedef set<int>::iterator ssii;
 #define _forPlus(i, l, d, r) for(int i = (l); i + d < (r); i++)
 
 const int maxn = 3000 + 10;
-int F[maxn][maxn];
+int f[maxn][maxn];
 int A[maxn], B[maxn];
-
-void init() {
-    Set(F, 0);
-    Set(A, 0);
-    Set(B, 0);
-}
 int n;
 
 int main() {
     freopen("input.txt", "r", stdin);
-    init();
     scanf("%d", &n);
-
     _rep(i, 1, n) scanf("%d", &A[i]);
     _rep(i, 1, n) scanf("%d", &B[i]);
 
     _rep(i, 1, n) {
-        int val = 0;
-        _rep(j, 1, n) {
-            if(A[i] == B[j]) F[i][j] = val + 1;
-            else F[i][j] = F[i - 1][j];
+        int maxv = 0;
+        if(B[0] < A[i]) maxv = max(maxv, f[i - 1][0]);
 
-            if(B[j] < A[i]) val = max(val, F[i - 1][j]);
+        _rep(j, 1, n) {
+            if(A[i] == B[j]) f[i][j] = maxv + 1;
+            else f[i][j] = f[i - 1][j];
+
+            if(B[j] > A[i]) maxv = max(maxv, f[i - 1][j]);
         }
     }
-
-    int ans = 0;
-    _rep(i, 1, n) ans = max(ans, F[n][i]);
-    printf("%d\n", ans);
+    int res = 0;
+    _rep(i, 1, n) res = max(res, f[n][i]);
+    cout << res << endl;
 }

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangminchen/Downloads/tools/solution-to-ICPC/ch5-training/examples/UVA11478/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+algorithm
+-
+queue
+-
+vector
+-
+stack
+-
+map
+-
+set
+-
+sstream
+-
+iomanip
+-
+cmath
+-
+bitset
+-
+assert.h
+-
+

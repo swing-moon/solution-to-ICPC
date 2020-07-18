@@ -34,11 +34,11 @@ typedef set<int>::iterator ssii;
 #define lowbit(i) (i & (-i))
 
 const int maxn = 100000 + 10;
-int A[maxn], n, h[maxn];
+int A[maxn], n, ANS[maxn];
 
 void init() {
     Set(A, 0);
-    Set(h, 0);
+    Set(ANS, 0);
 }
 
 class Fwick {
@@ -72,7 +72,6 @@ public:
     }
 
     int find(int l, int r, int val) {
-        // find sum(p) == val
         while (l < r) {
             int mid = (l + r) >> 1;
             if(sum(mid) < val) l = mid + 1;
@@ -101,9 +100,10 @@ int main() {
 
     _forDown(i, n, 1) {
         int val = A[i] + 1;
-        h[i] = fwick.find(1, n, val);
-        fwick.add(h[i], -1);
+        int p = fwick.find(1, n, val);
+        ANS[i] = p;
+        fwick.add(p, -1);
     }
 
-    _rep(i, 1, n) cout << h[i] << endl;
+    _rep(i, 1, n) cout << ANS[i] << endl;
 }

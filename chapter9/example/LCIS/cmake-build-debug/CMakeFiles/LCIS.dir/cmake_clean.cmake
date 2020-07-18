@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LCIS.dir/main.cpp.o"
-  "LCIS.pdb"
   "LCIS"
+  "LCIS.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
